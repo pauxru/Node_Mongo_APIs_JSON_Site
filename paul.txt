@@ -1,0 +1,10 @@
+Are you stuck: This is what we know about the avocado: This is what we know about the avocado: This is what we know about the avocado: A: Have you actually tried to fix the problem on your own? 
+Have you compared your code to the final code? If you failed fixing 
+your problem, please post a detailed description of the problem to the 
+Q&A area of that video over at Udemy, along with a codepen containing 
+your code. You will get help there. Please don't send me a personal 
+message or email to fix coding problems..
+Created on 1671990311352.
+Created on 1671990350698.
+Created on 1671990370770.
+Created on 1671990398474
